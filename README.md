@@ -1,1 +1,36 @@
-# My-Profile
+<h2>👋 Hey there! I'm Apurv</h2>
+
+### 👨🏻‍💻 &nbsp;About Me
+💻 Data Analytics for Business Student\
+💡 &nbsp;I like to explore new technologies.\
+🌱 &nbsp;I'm on track for learning more about Data, EDA, and Statistics.\
+✉️ &nbsp;You can shoot me an email at apurvsathwara@gmail.com!
+
+<img alt="coding" src="./assets/coding.gif" align="right" style="height: 35%;width: 25%"/>
+
+### 🛠 &nbsp;Tech Stack
+
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=sql)&nbsp;
+![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![PowerBi](https://img.shields.io/badge/-PowerBi-05122A?style=flat&logo=powerbi)&nbsp;
+![Tableau](https://img.shields.io/badge/-Tableau-05122A?style=flat&logo=tableau)&nbsp;
+
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/siddharth2022">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=apurvs21&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+
+</a>
+</p>
+
+### 🤝🏻 &nbsp;Connect with Me
+
+<p align="center">
+<a href="https://bit.ly/3K0mka5"><img src="https://img.shields.io/badge/-Apurv%20Sathwara-blue?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:apurvsathwara@gmail.com"><img src="https://img.shields.io/badge/-Apurv%20Sathwara-red?style=flat&logo=Gmail&logoColor=white"/></a>
+</p>
